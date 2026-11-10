@@ -11,4 +11,6 @@ int main() {
         printf("Divisor is 0. Program exiting.");
         exit(EXIT_FAILURE);
     }
+
+    return 0;
 }
